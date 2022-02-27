@@ -1,1 +1,1 @@
-# new_repo2
+# my_repo2
